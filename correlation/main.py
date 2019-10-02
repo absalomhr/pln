@@ -15,7 +15,7 @@ def load_list_pickle(filename):
 vocab = load_list_pickle("vocabulary")
 idf_vector = load_pickle_file("idf_vector")
 okapi_vec = load_pickle_file("okapi_vec")
-palabra = "dólar"
+palabra = "empresa"
 etiqueta = "n"
 
 idf_arr = []
